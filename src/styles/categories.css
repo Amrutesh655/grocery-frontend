@@ -1,0 +1,16 @@
+.category-item {
+  font-size: 18px;
+  cursor: pointer;
+  padding-bottom: 8px;
+  color: white;
+}
+
+.category-item:hover {
+  color: white;
+}
+
+.active-category {
+  color: yellow; 
+  font-weight: 600; 
+}
+

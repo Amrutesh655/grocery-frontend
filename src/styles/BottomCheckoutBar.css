@@ -1,0 +1,36 @@
+.mini-checkout {
+  position: fixed;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 22%;
+  background: #ffffff;
+  color: #000;
+  padding: 10px 14px;
+  border-radius: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.18);
+  z-index: 999;
+}
+
+.mini-left {
+  display: flex;
+  flex-direction: column;
+}
+
+.mini-btn {
+  background: #00c853;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 8px;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.mini-btn:hover {
+  background: #00b44a;
+}
