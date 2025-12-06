@@ -47,7 +47,7 @@ function Login() {
       backgroundRepeat: "no-repeat",
       backdropFilter: "brightness(0.8)"
        }}>
-        <img src='/public/LoginToyImg.png' style={{width:"25%"}}></img>
+        <img src='/LoginToyImg.png' style={{width:"25%"}}></img>
      <Card style={{
        width: "29rem",
        height:"25rem",

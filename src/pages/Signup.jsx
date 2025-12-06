@@ -45,7 +45,7 @@ function Signup() {
       backdropFilter: "brightness(0.8)",
         }}>
           
-          <img src="/public/SignupImg.png" style={{width:"25%"}}></img>
+          <img src="/SignupImg.png" style={{width:"25%"}}></img>
 
       <Card style={{
          width: "29rem",
